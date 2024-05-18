@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}{{ libro.nombre }}{% endblock %}
+
+{% block content %}
+<div class="libro-detalle">
+    <img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
+    <h2>{{ libro.nombre }}</h2>
+    <p>Autor: {{ libro.autor }}</p>
+    <a href="{{ url_for('libros_view') }}" class="btn">Volver a la lista</a>
+</div>
+{% endblock %}

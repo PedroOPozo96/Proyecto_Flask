@@ -1,0 +1,166 @@
+{
+    "status": "OK",
+    "libros": [
+        {
+            "id": 1,
+            "nombre": "Alas de Sangre",
+            "autor": "YARROS, REBECCA",
+            "fecha_publicacion": "2023",
+            "foto": "https://quelibroleo.com/images/libros/libro-1689852016.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "El señor de los anillos (Trilogía)",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1954",
+            "foto": "https://images.cdn3.buscalibre.com/fit-in/360x360/54/49/5449ba87a3e457a22dd6d0972b5c261e.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "1984",
+            "autor": "George Orwell",
+            "fecha_publicacion": "1949",
+            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/b0/39/b039af065268818b7bd3b0e016f8db65.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Una Corte de Rosas y Espinas",
+            "autor": "MAAS, SARAH J.",
+            "fecha_publicacion": "2015",
+            "foto": "https://quelibroleo.com/images/libros/libro-1476387232.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Elantris",
+            "autor": "SANDERSON, BRANDON",
+            "fecha_publicacion": "2005",
+            "foto": "https://imagessl4.casadellibro.com/a/l/s7/34/9788490705834.webp"
+        },
+        {
+            "id": 6,
+            "nombre": "Dune",
+            "autor": "HERBERT, FRANK",
+            "fecha_publicacion": "1965",
+            "foto": "https://quelibroleo.com/images/libros/libro-1594720494.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Juego de Tronos",
+            "autor": "MARTIN, GEORGE R.R.",
+            "fecha_publicacion": "1996",
+            "foto": "https://quelibroleo.com/images/libros/libro-1500477714.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Mitos Nórdicos",
+            "autor": "GAIMAN, NEIL",
+            "fecha_publicacion": "2017",
+            "foto": "https://quelibroleo.com/images/libros/9/978/978842/9788423352838.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "My Hero Academia",
+            "autor": "Kohei Horikoshi",
+            "fecha_publicacion": "2014",
+            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/d0/7c/d07c97b045f4ac9482c5716d300cd225.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Dragon Ball",
+            "autor": "Akira Toriyama",
+            "fecha_publicacion": "1984",
+            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/c1/43/c1437059d5c2fd35974bbff96d370f67.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "fecha_publicacion": "1605",
+            "foto": "https://www.libreriasinopsis.com/imagenes/9788469/978846980757.JPG"
+        },
+        {
+            "id": 12,
+            "nombre": "El retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "fecha_publicacion": "1890",
+            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/91/18/9118645bef1e527a3e1f14e7187ac89e.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Reina Roja",
+            "autor": "Juan Gomez Jurado",
+            "fecha_publicacion": "2018",
+            "foto": "https://quelibroleo.com/images/libros/libro-1539682368.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "El Principito",
+            "autor": "Antoine de Saint-Exupéry",
+            "fecha_publicacion": "1943",
+            "foto": "https://i.pinimg.com/originals/9a/a4/b1/9aa4b16195770cbb27ef3b2447d11afc.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "El proceso",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1925",
+            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/86/31/8631f67503db12c77b8dc8b50665c705.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Caraval",
+            "autor": "GARBER, STEPHANIE",
+            "fecha_publicacion": "2017",
+            "foto": "https://quelibroleo.com/images/libros/9788417854249.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "La Novia Gitana",
+            "autor": "MOLA, CARMEN",
+            "fecha_publicacion": "2018",
+            "foto": "https://quelibroleo.com/images/libros/9/978/978842/9788420433189.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Harry Potter y La Piedra Filosofal",
+            "autor": "J.K. Rowling",
+            "fecha_publicacion": "1997",
+            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/e6/5f/e65f54742ad7bbc41903d17f75b77d78.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "La Odisea",
+            "autor": "Homero",
+            "fecha_publicacion": "Siglo VIII a.C.",
+            "foto": "https://www.loqueleo.com/co/uploads/2021/01/resized/200_la-odisea-1.JPG"
+        },
+        {
+            "id": 20,
+            "nombre": "The Amazing Spider-man",
+            "autor": "Stan Lee",
+            "fecha_publicacion": "1963",
+            "foto": "https://images.cdn3.buscalibre.com/fit-in/360x360/94/ee/94ee3667ba5e755735f0a6dc357a8b80.jpg"
+        },
+        {
+            "id": 21,
+            "nombre": "El guardián entre el centeno",
+            "autor": "J. D. Salinger",
+            "fecha_publicacion": "1951",
+            "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7IwVsVdjx6tH8vjHqgc3hta4RP3J9HmN4cCczSK9sCJYdtiZS"
+        },
+        {
+            "id": 22,
+            "nombre": "Cumbres borrascosas",
+            "autor": "Emily Brontë",
+            "fecha_publicacion": "1847",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1fnGmg2Im9AQNM1x0exz7RC68OMRwpzYQE8wa853_EVGI3Zt"
+        },
+        {
+            "id": 23,
+            "nombre": "Demon Slayer",
+            "autor": "Koyoharu Gotouge",
+            "fecha_publicacion": "2016",
+            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/da/8f/da8f999540497e9f843e5131516680e1.jpg"
+        }
+    ]
+}
