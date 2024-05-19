@@ -32,3 +32,6 @@ def libro_detalle(libro_id):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+app.run("0.0.0.0",30000,debug=True)
