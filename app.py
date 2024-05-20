@@ -30,9 +30,6 @@ def libro_detalle(libro_id):
         abort(404)
     return render_template('libro_detalle.html', libro=libro)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
