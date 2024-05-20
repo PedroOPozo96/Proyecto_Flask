@@ -5,19 +5,23 @@
 {% block content %}
 <div class="libros">
     <h2>Lista de Libros</h2>
-    <form method="POST" action="{{ url_for('libros_view') }}">
-        <input type="text" name="search" placeholder="Buscar libro">
+    <form method="GET" action="{{ url_for('libros_view') }}">
+        <input type="text" name="q" placeholder="Buscar libro" value="{{ query }}">
         <button type="submit">Buscar</button>
     </form>
+    {% if libros %}
     <div class="libros-lista">
         {% for libro in libros %}
         <div class="libro-item">
-            <img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
             <h3>{{ libro.nombre }}</h3>
             <p>{{ libro.autor }}</p>
+            <img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
             <a href="{{ url_for('libro_detalle', libro_id=libro.id) }}" class="btn">Detalle</a>
         </div>
         {% endfor %}
     </div>
+    {% else %}
+    <p>No se encontraron libros para la búsqueda "{{ query }}".</p>
+    {% endif %}
 </div>
 {% endblock %}
