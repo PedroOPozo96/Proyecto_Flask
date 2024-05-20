@@ -4,7 +4,6 @@ import os
 
 app = Flask(__name__)
 
-# Cargar datos del JSON
 def load_data():
     with open('libros.json') as f:
         return json.load(f)['libros']
@@ -15,19 +14,20 @@ libros = load_data()
 def index():
     return render_template('index.html')
 
-@app.route('/libros')
-def lista_libros():
+@app.route('/libros', methods=['GET', 'POST'])
+def libros_view():
     query = request.args.get('q', '')
-    resultados = [libro for libro in libros if query.lower() in libro['title'].lower()]
+    resultados = [libro for libro in libros if query.lower() in libro['nombre'].lower()]
+    if not resultados:
+        abort(404)
     return render_template('libros.html', libros=resultados, query=query)
 
-@app.route('/libro/<int:id>')
-def libro_detalle(id):
-    libro = next((libro for libro in libros if libro['id'] == id), None)
+@app.route('/libro/<int:libro_id>')
+def libro_detalle(libro_id):
+    libro = next((libro for libro in libros if libro['id'] == libro_id), None)
     if libro is None:
         abort(404)
     return render_template('libro_detalle.html', libro=libro)
-
 
 @app.errorhandler(404)
 def page_not_found(e):
