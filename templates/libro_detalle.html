@@ -3,10 +3,9 @@
 {% block title %}{{ libro.nombre }}{% endblock %}
 
 {% block content %}
-<div class="libro-detalle">
-    <img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
-    <h2>{{ libro.nombre }}</h2>
-    <p>Autor: {{ libro.autor }}</p>
-    <a href="{{ url_for('libros_view') }}" class="btn">Volver a la lista</a>
-</div>
+<h2>{{ libro.nombre }}</h2>
+<p><strong>Autor:</strong> {{ libro.autor }}</p>
+<p><strong>Fecha de Publicación:</strong> {{ libro.fecha_publicacion }}</p>
+<img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
+<a href="{{ url_for('libros_view') }}">Volver a la lista</a>
 {% endblock %}
