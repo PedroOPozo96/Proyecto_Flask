@@ -15,12 +15,13 @@
         <div class="libro-item">
             <h3>{{ libro.nombre }}</h3>
             <p>{{ libro.autor }}</p>
+            <p><strong>Precio:</strong> {{ libro.precio }}</p>
             {% if libro.imagen %}
             <img src="{{ libro.imagen }}" alt="{{ libro.nombre }}">
             {% else %}
             <img src="path/to/default-image.jpg" alt="{{ libro.nombre }}">
             {% endif %}
-            <a href="{{ url_for('libro_detalle', libro_id=libro.id) }}" class="btn">Detalles</a>
+            <a href="{{ url_for('libro_detalle', libro_id=libro.id) }}" class="btn">Detalle</a>
         </div>
         {% endfor %}
     </div>

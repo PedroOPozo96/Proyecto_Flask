@@ -7,7 +7,7 @@
             "autor": "YARROS, REBECCA",
             "fecha_publicacion": "2023",
             "editorial": "Planeta",
-            "precio": 20.95,
+            "precio": "20,95 €",
             "imagen": "https://m.media-amazon.com/images/I/518MURDA1yL._SY445_SX342_.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "autor": "J. R. R. Tolkien",
             "fecha_publicacion": "1954",
             "editorial": "Minotauro",
-            "precio": 35.00,
+            "precio": "35,00 €",
             "imagen": "https://m.media-amazon.com/images/I/81KW9EIIekL._SL1495_.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "autor": "George Orwell",
             "fecha_publicacion": "1949",
             "editorial": "Debolsillo",
-            "precio": 10.99,
+            "precio": "10,99 €",
             "imagen": "https://m.media-amazon.com/images/I/71sOSrd+JxL._SL1500_.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "autor": "MAAS, SARAH J.",
             "fecha_publicacion": "2015",
             "editorial": "Destino",
-            "precio": 17.95,
+            "precio": "17,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71AqcFrx3JL._SL1500_.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "autor": "SANDERSON, BRANDON",
             "fecha_publicacion": "2005",
             "editorial": "Nova",
-            "precio": 21.50,
+            "precio": "21,50 €",
             "imagen": "https://m.media-amazon.com/images/I/81XE08B76cL._SL1500_.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "autor": "HERBERT, FRANK",
             "fecha_publicacion": "1965",
             "editorial": "Nova",
-            "precio": 24.95,
+            "precio": "24,95 €",
             "imagen": "https://m.media-amazon.com/images/I/91iRBWAAG1L._SL1500_.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "autor": "MARTIN, GEORGE R.R.",
             "fecha_publicacion": "1996",
             "editorial": "Gigamesh",
-            "precio": 29.95,
+            "precio": "29,95 €",
             "imagen": "https://m.media-amazon.com/images/I/917izhhQjIL._SL1500_.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "autor": "GAIMAN, NEIL",
             "fecha_publicacion": "2017",
             "editorial": "Destino",
-            "precio": 16.50,
+            "precio": "16,50 €",
             "imagen": "https://m.media-amazon.com/images/I/91HaZjLtUPL._SL1500_.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "autor": "Kohei Horikoshi",
             "fecha_publicacion": "2014",
             "editorial": "Norma Editorial",
-            "precio": 7.95,
+            "precio": "7,95 €",
             "imagen": "https://m.media-amazon.com/images/I/912mJf7tsUL._SL1500_.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "autor": "Akira Toriyama",
             "fecha_publicacion": "1984",
             "editorial": "Planeta Cómic",
-            "precio": 12.95,
+            "precio": "12,95 €",
             "imagen": "https://m.media-amazon.com/images/I/81ezEsYhgQL._SL1500_.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "autor": "Miguel de Cervantes",
             "fecha_publicacion": "1605",
             "editorial": "Cátedra",
-            "precio": 15.95,
+            "precio": "15,95 €",
             "imagen": "https://m.media-amazon.com/images/I/61qSjw3tDHL._SL1413_.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "autor": "Oscar Wilde",
             "fecha_publicacion": "1890",
             "editorial": "Alianza Editorial",
-            "precio": 13.95,
+            "precio": "13,95 €",
             "imagen": "https://m.media-amazon.com/images/I/91KVu+3L8dL._SL1500_.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "autor": "Juan Gomez Jurado",
             "fecha_publicacion": "2018",
             "editorial": "Ediciones B",
-            "precio": 19.95,
+            "precio": "19,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71b0q2Dz6zL._SL1500_.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "autor": "Antoine de Saint-Exupéry",
             "fecha_publicacion": "1943",
             "editorial": "Salamandra",
-            "precio": 8.95,
+            "precio": "8,95 €",
             "imagen": "https://m.media-amazon.com/images/I/714Hvb52n-L._SL1500_.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "autor": "Franz Kafka",
             "fecha_publicacion": "1925",
             "editorial": "Alianza Editorial",
-            "precio": 9.95,
+            "precio": "9,95 €",
             "imagen": "https://m.media-amazon.com/images/I/717c37yxagL._SL1500_.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "autor": "GARBER, STEPHANIE",
             "fecha_publicacion": "2017",
             "editorial": "Planeta",
-            "precio": 18.95,
+            "precio": "18,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71-ODLZRpuS._SL1500_.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "autor": "MOLA, CARMEN",
             "fecha_publicacion": "2018",
             "editorial": "Alfaguara",
-            "precio": 22.95,
+            "precio": "22,95 €",
             "imagen": "https://m.media-amazon.com/images/I/91h7tHLXtDL._SL1500_.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "autor": "J.K. Rowling",
             "fecha_publicacion": "1997",
             "editorial": "Salamandra",
-            "precio": 21.00,
+            "precio": "21,00 €",
             "imagen": "https://m.media-amazon.com/images/I/91R1AixEiLL._SL1500_.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "autor": "Homero",
             "fecha_publicacion": "Siglo VIII a.C.",
             "editorial": "Gredos",
-            "precio": 11.95,
+            "precio": "11,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71OJSZyj3vL._SL1500_.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "autor": "Stan Lee",
             "fecha_publicacion": "1963",
             "editorial": "Panini Cómics",
-            "precio": 25.00,
+            "precio": "25,00 €",
             "imagen": "https://m.media-amazon.com/images/I/71LIi5hWPyL._SL1050_.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "autor": "J. D. Salinger",
             "fecha_publicacion": "1951",
             "editorial": "Alianza Editorial",
-            "precio": 10.50,
+            "precio": "10,50 €",
             "imagen": "https://m.media-amazon.com/images/I/61fwcnFmmpL._SL1080_.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "autor": "Emily Brontë",
             "fecha_publicacion": "1847",
             "editorial": "Alianza Editorial",
-            "precio": 9.50,
+            "precio": "9,50 €",
             "imagen": "https://m.media-amazon.com/images/I/818c9yXopZL._SL1500_.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "autor": "Koyoharu Gotouge",
             "fecha_publicacion": "2016",
             "editorial": "Norma Editorial",
-            "precio": 7.95,
+            "precio": "7,95 €",
             "imagen": "https://m.media-amazon.com/images/I/81SSgB6ZEJL._SL1500_.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "autor": "J. R. R. Tolkien",
             "fecha_publicacion": "1937",
             "editorial": "Minotauro",
-            "precio": 15.00,
+            "precio": "15,00 €",
             "imagen": "https://m.media-amazon.com/images/I/9116F++x55L._SL1500_.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "autor": "J. R. R. Tolkien",
             "fecha_publicacion": "1954",
             "editorial": "Minotauro",
-            "precio": 18.00,
+            "precio": "18,00 €",
             "imagen": "https://m.media-amazon.com/images/I/91GGJZ19aEL._SL1500_.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "autor": "J. R. R. Tolkien",
             "fecha_publicacion": "1977",
             "editorial": "Minotauro",
-            "precio": 20.00,
+            "precio": "20,00 €",
             "imagen": "https://m.media-amazon.com/images/I/91wA4QqjNDL._SL1500_.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "autor": "Ray Bradbury",
             "fecha_publicacion": "1953",
             "editorial": "Debolsillo",
-            "precio": 12.00,
+            "precio": "12,00 €",
             "imagen": "https://m.media-amazon.com/images/I/81dXbAYs-KL._SL1500_.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "autor": "Gabriel García Márquez",
             "fecha_publicacion": "1981",
             "editorial": "Plaza & Janés",
-            "precio": 14.95,
+            "precio": "14,95 €",
             "imagen": "https://m.media-amazon.com/images/I/91geyJSGR6L._SL1500_.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "autor": "Gabriel García Márquez",
             "fecha_publicacion": "1967",
             "editorial": "Sudamericana",
-            "precio": 16.00,
+            "precio": "16,00 €",
             "imagen": "https://m.media-amazon.com/images/I/91TvVQS7loL._SL1500_.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "autor": "Philip K. Dick",
             "fecha_publicacion": "1968",
             "editorial": "Minotauro",
-            "precio": 13.50,
+            "precio": "13,50 €",
             "imagen": "https://m.media-amazon.com/images/I/71Cpe5l9nUL._SL1184_.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "autor": "Franz Kafka",
             "fecha_publicacion": "1915",
             "editorial": "Alianza Editorial",
-            "precio": 8.50,
+            "precio": "8,50 €",
             "imagen": "https://m.media-amazon.com/images/I/612NA7i9u8L._SL1500_.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "autor": "Franz Kafka",
             "fecha_publicacion": "1926",
             "editorial": "Alianza Editorial",
-            "precio": 9.00,
+            "precio": "9,00 €",
             "imagen": "https://m.media-amazon.com/images/I/616aE1C0rvL._SL1500_.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "autor": "Jon Krakauer",
             "fecha_publicacion": "1996",
             "editorial": "RBA Libros",
-            "precio": 17.95,
+            "precio": "17,95 €",
             "imagen": "https://m.media-amazon.com/images/I/81I4-KbfCEL._SL1500_.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "autor": "Suzanne Collins",
             "fecha_publicacion": "2008",
             "editorial": "Molino",
-            "precio": 18.95,
+            "precio": "18,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71e4kjCsuAL._SL1500_.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "autor": "Suzanne Collins",
             "fecha_publicacion": "2009",
             "editorial": "Molino",
-            "precio": 18.95,
+            "precio": "18,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71FrCRrMJ+L._SL1500_.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "autor": "Suzanne Collins",
             "fecha_publicacion": "2010",
             "editorial": "Molino",
-            "precio": 18.95,
+            "precio": "18,95 €",
             "imagen": "https://m.media-amazon.com/images/I/71wRWeSwtrL._SL1500_.jpg"
         }
     ]
