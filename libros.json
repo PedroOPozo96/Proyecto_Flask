@@ -6,161 +6,324 @@
             "nombre": "Alas de Sangre",
             "autor": "YARROS, REBECCA",
             "fecha_publicacion": "2023",
-            "foto": "https://quelibroleo.com/images/libros/libro-1689852016.jpg"
+            "editorial": "Planeta",
+            "precio": 20.95,
+            "imagen": "https://m.media-amazon.com/images/I/91OI4F8Fa7L._SL1500_.jpg"
         },
         {
             "id": 2,
             "nombre": "El señor de los anillos (Trilogía)",
             "autor": "J. R. R. Tolkien",
             "fecha_publicacion": "1954",
-            "foto": "https://images.cdn3.buscalibre.com/fit-in/360x360/54/49/5449ba87a3e457a22dd6d0972b5c261e.jpg"
+            "editorial": "Minotauro",
+            "precio": 35.00,
+            "imagen": "https://m.media-amazon.com/images/I/81KW9EIIekL._SL1495_.jpg"
         },
         {
             "id": 3,
             "nombre": "1984",
             "autor": "George Orwell",
             "fecha_publicacion": "1949",
-            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/b0/39/b039af065268818b7bd3b0e016f8db65.jpg"
+            "editorial": "Debolsillo",
+            "precio": 10.99,
+            "imagen": "https://m.media-amazon.com/images/I/71sOSrd+JxL._SL1500_.jpg"
         },
         {
             "id": 4,
             "nombre": "Una Corte de Rosas y Espinas",
             "autor": "MAAS, SARAH J.",
             "fecha_publicacion": "2015",
-            "foto": "https://quelibroleo.com/images/libros/libro-1476387232.jpg"
+            "editorial": "Destino",
+            "precio": 17.95,
+            "imagen": "https://m.media-amazon.com/images/I/71AqcFrx3JL._SL1500_.jpg"
         },
         {
             "id": 5,
             "nombre": "Elantris",
             "autor": "SANDERSON, BRANDON",
             "fecha_publicacion": "2005",
-            "foto": "https://imagessl4.casadellibro.com/a/l/s7/34/9788490705834.webp"
+            "editorial": "Nova",
+            "precio": 21.50,
+            "imagen": "https://m.media-amazon.com/images/I/81XE08B76cL._SL1500_.jpg"
         },
         {
             "id": 6,
             "nombre": "Dune",
             "autor": "HERBERT, FRANK",
             "fecha_publicacion": "1965",
-            "foto": "https://quelibroleo.com/images/libros/libro-1594720494.jpg"
+            "editorial": "Nova",
+            "precio": 24.95,
+            "imagen": "https://m.media-amazon.com/images/I/91iRBWAAG1L._SL1500_.jpg"
         },
         {
             "id": 7,
             "nombre": "Juego de Tronos",
             "autor": "MARTIN, GEORGE R.R.",
             "fecha_publicacion": "1996",
-            "foto": "https://quelibroleo.com/images/libros/libro-1500477714.jpg"
+            "editorial": "Gigamesh",
+            "precio": 29.95,
+            "imagen": "https://m.media-amazon.com/images/I/917izhhQjIL._SL1500_.jpg"
         },
         {
             "id": 8,
             "nombre": "Mitos Nórdicos",
             "autor": "GAIMAN, NEIL",
             "fecha_publicacion": "2017",
-            "foto": "https://quelibroleo.com/images/libros/9/978/978842/9788423352838.jpg"
+            "editorial": "Destino",
+            "precio": 16.50,
+            "imagen": "https://m.media-amazon.com/images/I/51L6imgV8xL._SY445_SX342_.jpg"
         },
         {
             "id": 9,
             "nombre": "My Hero Academia",
             "autor": "Kohei Horikoshi",
             "fecha_publicacion": "2014",
-            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/d0/7c/d07c97b045f4ac9482c5716d300cd225.jpg"
+            "editorial": "Norma Editorial",
+            "precio": 7.95,
+            "imagen": "https://m.media-amazon.com/images/I/912mJf7tsUL._SL1500_.jpg"
         },
         {
             "id": 10,
             "nombre": "Dragon Ball",
             "autor": "Akira Toriyama",
             "fecha_publicacion": "1984",
-            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/c1/43/c1437059d5c2fd35974bbff96d370f67.jpg"
+            "editorial": "Planeta Cómic",
+            "precio": 12.95,
+            "imagen": "https://m.media-amazon.com/images/I/81ezEsYhgQL._SL1500_.jpg"
         },
         {
             "id": 11,
             "nombre": "Don Quijote de la Mancha",
             "autor": "Miguel de Cervantes",
             "fecha_publicacion": "1605",
-            "foto": "https://www.libreriasinopsis.com/imagenes/9788469/978846980757.JPG"
+            "editorial": "Cátedra",
+            "precio": 15.95,
+            "imagen": "https://m.media-amazon.com/images/I/61qSjw3tDHL._SL1413_.jpg"
         },
         {
             "id": 12,
             "nombre": "El retrato de Dorian Gray",
             "autor": "Oscar Wilde",
             "fecha_publicacion": "1890",
-            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/91/18/9118645bef1e527a3e1f14e7187ac89e.jpg"
+            "editorial": "Alianza Editorial",
+            "precio": 13.95,
+            "imagen": "https://m.media-amazon.com/images/I/91KVu+3L8dL._SL1500_.jpg"
         },
         {
             "id": 13,
             "nombre": "Reina Roja",
             "autor": "Juan Gomez Jurado",
             "fecha_publicacion": "2018",
-            "foto": "https://quelibroleo.com/images/libros/libro-1539682368.jpg"
+            "editorial": "Ediciones B",
+            "precio": 19.95,
+            "imagen": "https://m.media-amazon.com/images/I/71b0q2Dz6zL._SL1500_.jpg"
         },
         {
             "id": 14,
             "nombre": "El Principito",
             "autor": "Antoine de Saint-Exupéry",
             "fecha_publicacion": "1943",
-            "foto": "https://i.pinimg.com/originals/9a/a4/b1/9aa4b16195770cbb27ef3b2447d11afc.jpg"
+            "editorial": "Salamandra",
+            "precio": 8.95,
+            "imagen": "https://m.media-amazon.com/images/I/714Hvb52n-L._SL1500_.jpg"
         },
         {
             "id": 15,
             "nombre": "El proceso",
             "autor": "Franz Kafka",
             "fecha_publicacion": "1925",
-            "foto": "https://images.cdn1.buscalibre.com/fit-in/360x360/86/31/8631f67503db12c77b8dc8b50665c705.jpg"
+            "editorial": "Alianza Editorial",
+            "precio": 9.95,
+            "imagen": ""
         },
         {
             "id": 16,
             "nombre": "Caraval",
             "autor": "GARBER, STEPHANIE",
             "fecha_publicacion": "2017",
-            "foto": "https://quelibroleo.com/images/libros/9788417854249.jpg"
+            "editorial": "Planeta",
+            "precio": 18.95,
+            "imagen": "https://m.media-amazon.com/images/I/717c37yxagL._SL1500_.jpg"
         },
         {
             "id": 17,
             "nombre": "La Novia Gitana",
             "autor": "MOLA, CARMEN",
             "fecha_publicacion": "2018",
-            "foto": "https://quelibroleo.com/images/libros/9/978/978842/9788420433189.jpg"
+            "editorial": "Alfaguara",
+            "precio": 22.95,
+            "imagen": "https://m.media-amazon.com/images/I/91h7tHLXtDL._SL1500_.jpg"
         },
         {
             "id": 18,
             "nombre": "Harry Potter y La Piedra Filosofal",
             "autor": "J.K. Rowling",
             "fecha_publicacion": "1997",
-            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/e6/5f/e65f54742ad7bbc41903d17f75b77d78.jpg"
+            "editorial": "Salamandra",
+            "precio": 21.00,
+            "imagen": "https://m.media-amazon.com/images/I/91R1AixEiLL._SL1500_.jpg"
         },
         {
             "id": 19,
             "nombre": "La Odisea",
             "autor": "Homero",
             "fecha_publicacion": "Siglo VIII a.C.",
-            "foto": "https://www.loqueleo.com/co/uploads/2021/01/resized/200_la-odisea-1.JPG"
+            "editorial": "Gredos",
+            "precio": 11.95,
+            "imagen": "https://m.media-amazon.com/images/I/71OJSZyj3vL._SL1500_.jpg"
         },
         {
             "id": 20,
-            "nombre": "The Amazing Spider-man",
+            "nombre": "The Amazing Fantasy",
             "autor": "Stan Lee",
             "fecha_publicacion": "1963",
-            "foto": "https://images.cdn3.buscalibre.com/fit-in/360x360/94/ee/94ee3667ba5e755735f0a6dc357a8b80.jpg"
+            "editorial": "Panini Cómics",
+            "precio": 25.00,
+            "imagen": "https://m.media-amazon.com/images/I/71LIi5hWPyL._SL1050_.jpg"
         },
         {
             "id": 21,
             "nombre": "El guardián entre el centeno",
             "autor": "J. D. Salinger",
             "fecha_publicacion": "1951",
-            "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7IwVsVdjx6tH8vjHqgc3hta4RP3J9HmN4cCczSK9sCJYdtiZS"
+            "editorial": "Alianza Editorial",
+            "precio": 10.50,
+            "imagen": "https://m.media-amazon.com/images/I/61fwcnFmmpL._SL1080_.jpg"
         },
         {
             "id": 22,
             "nombre": "Cumbres borrascosas",
             "autor": "Emily Brontë",
             "fecha_publicacion": "1847",
-            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1fnGmg2Im9AQNM1x0exz7RC68OMRwpzYQE8wa853_EVGI3Zt"
+            "editorial": "Alianza Editorial",
+            "precio": 9.50,
+            "imagen": "https://m.media-amazon.com/images/I/818c9yXopZL._SL1500_.jpg"
         },
         {
             "id": 23,
             "nombre": "Demon Slayer",
             "autor": "Koyoharu Gotouge",
             "fecha_publicacion": "2016",
-            "foto": "https://images.cdn2.buscalibre.com/fit-in/360x360/da/8f/da8f999540497e9f843e5131516680e1.jpg"
+            "editorial": "Norma Editorial",
+            "precio": 7.95,
+            "imagen": "https://m.media-amazon.com/images/I/81SSgB6ZEJL._SL1500_.jpg"
+        },
+        {
+            "id": 24,
+            "nombre": "El Hobbit",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1937",
+            "editorial": "Minotauro",
+            "precio": 15.00,
+            "imagen": "https://m.media-amazon.com/images/I/9116F++x55L._SL1500_.jpg"
+        },
+        {
+            "id": 25,
+            "nombre": "La Comunidad del Anillo",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1954",
+            "editorial": "Minotauro",
+            "precio": 18.00,
+            "imagen": "https://m.media-amazon.com/images/I/91GGJZ19aEL._SL1500_.jpg"
+        },
+        {
+            "id": 26,
+            "nombre": "El Silmarillion",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1977",
+            "editorial": "Minotauro",
+            "precio": 20.00,
+            "imagen": "https://m.media-amazon.com/images/I/91wA4QqjNDL._SL1500_.jpg"
+        },
+        {
+            "id": 27,
+            "nombre": "Fahrenheit 451",
+            "autor": "Ray Bradbury",
+            "fecha_publicacion": "1953",
+            "editorial": "Debolsillo",
+            "precio": 12.00,
+            "imagen": "https://m.media-amazon.com/images/I/81dXbAYs-KL._SL1500_.jpg"
+        },
+        {
+            "id": 28,
+            "nombre": "Crónica de una muerte anunciada",
+            "autor": "Gabriel García Márquez",
+            "fecha_publicacion": "1981",
+            "editorial": "Plaza & Janés",
+            "precio": 14.95,
+            "imagen": "https://m.media-amazon.com/images/I/91geyJSGR6L._SL1500_.jpg"
+        },
+        {
+            "id": 29,
+            "nombre": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "fecha_publicacion": "1967",
+            "editorial": "Sudamericana",
+            "precio": 16.00,
+            "imagen": "https://m.media-amazon.com/images/I/91TvVQS7loL._SL1500_.jpg"
+        },
+        {
+            "id": 30,
+            "nombre": "Do Androids Dream of Electric Sheep?",
+            "autor": "Philip K. Dick",
+            "fecha_publicacion": "1968",
+            "editorial": "Minotauro",
+            "precio": 13.50,
+            "imagen": "https://m.media-amazon.com/images/I/71Cpe5l9nUL._SL1184_.jpg"
+        },
+        {
+            "id": 31,
+            "nombre": "La Metamorfosis",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1915",
+            "editorial": "Alianza Editorial",
+            "precio": 8.50,
+            "imagen": "https://m.media-amazon.com/images/I/612NA7i9u8L._SL1500_.jpg"
+        },
+        {
+            "id": 32,
+            "nombre": "El Castillo",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1926",
+            "editorial": "Alianza Editorial",
+            "precio": 9.00,
+            "imagen": "https://m.media-amazon.com/images/I/616aE1C0rvL._SL1500_.jpg"
+        },
+        {
+            "id": 33,
+            "nombre": "Hacia Rutas Salvajes",
+            "autor": "Jon Krakauer",
+            "fecha_publicacion": "1996",
+            "editorial": "RBA Libros",
+            "precio": 17.95,
+            "imagen": "https://m.media-amazon.com/images/I/81I4-KbfCEL._SL1500_.jpg"
+        },
+        {
+            "id": 34,
+            "nombre": "Los Juegos del Hambre",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2008",
+            "editorial": "Molino",
+            "precio": 18.95,
+            "imagen": "https://m.media-amazon.com/images/I/71e4kjCsuAL._SL1500_.jpg"
+        },
+        {
+            "id": 35,
+            "nombre": "En Llamas",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2009",
+            "editorial": "Molino",
+            "precio": 18.95,
+            "imagen": "https://m.media-amazon.com/images/I/71FrCRrMJ+L._SL1500_.jpg"
+        },
+        {
+            "id": 36,
+            "nombre": "Sinsajo",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2010",
+            "editorial": "Molino",
+            "precio": 18.95,
+            "imagen": "https://m.media-amazon.com/images/I/71wRWeSwtrL._SL1500_.jpg"
         }
     ]
 }

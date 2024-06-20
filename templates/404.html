@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 
-{% block title %}404 - Página no encontrada{% endblock %}
-
 {% block content %}
-    <h2>404 - Página no encontrada</h2>
-    <p>Lo sentimos, la página que estás buscando no existe.</p>
-    <a href="{{ url_for('index') }}">Volver a la página principal</a>
+<section class="error">
+    <div class="container">
+        <h1>404 - Página no encontrada</h1>
+        <p>Lo sentimos, la página que estás buscando no existe.</p>
+        <a class="boton" href="{{ url_for('index') }}">Volver al inicio</a>
+    </div>
+</section>
 {% endblock %}
