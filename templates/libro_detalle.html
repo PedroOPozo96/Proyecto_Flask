@@ -3,9 +3,21 @@
 {% block title %}{{ libro.nombre }}{% endblock %}
 
 {% block content %}
-<h2>{{ libro.nombre }}</h2>
-<p><strong>Autor:</strong> {{ libro.autor }}</p>
-<p><strong>Fecha de Publicación:</strong> {{ libro.fecha_publicacion }}</p>
-<img src="{{ libro.foto }}" alt="{{ libro.nombre }}">
-<a href="{{ url_for('libros_view') }}">Volver a la lista</a>
+<div class="libro-detalle">
+    <h2>{{ libro.nombre }}</h2>
+    <p><strong>Autor:</strong> {{ libro.autor }}</p>
+    <p><strong>Fecha de Publicación:</strong> {{ libro.fecha_publicacion }}</p>
+    <p><strong>Editorial:</strong> {{ libro.editorial }}</p>
+    <p><strong>Precio:</strong> ${{ libro.precio }}</p>
+    <div class="imagen-detalle">
+        {% if libro.imagen %}
+        <img src="{{ libro.imagen }}" alt="{{ libro.nombre }}">
+        {% else %}
+        <img src="path/to/default-image.jpg" alt="{{ libro.nombre }}">
+        {% endif %}
+    </div>
+    <div class="volver-lista-container">
+        <a href="{{ url_for('libros_view') }}" class="btn volver-lista">Volver a la lista</a>
+    </div>
+</div>
 {% endblock %}

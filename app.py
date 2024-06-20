@@ -1,12 +1,13 @@
-from flask import Flask, render_template, request, redirect, url_for, abort, jsonify
+from flask import Flask, render_template, request, abort
 import json 
 import os
 
 app = Flask(__name__)
 
 def load_data():
-    with open('libros.json') as f:
+    with open('libros.json', encoding='utf-8') as f:
         return json.load(f)['libros']
+
 
 libros = load_data()
 
